@@ -1,8 +1,8 @@
 import React, { FC, useCallback, useState } from 'react';
 import { Tabs, Theme } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
-import AttachmentDialog from '../UserAttachmentVerification/AttachmentDialog';
-import AttachmentTab from '../UserAttachmentVerification/AttachmentTab';
+import AttachmentDialog from '../MaterialSlider/AttachmentDialog';
+import AttachmentTab from '../MaterialSlider/AttachmentTab';
 
 type Props = {
   data: any[];

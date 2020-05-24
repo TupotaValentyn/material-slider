@@ -1,2 +1,2 @@
 export { default as AttachmentBar } from './AttachmentBar'
-export { default as MaterialSlider } from './UserAttachmentVerification'
+export { default as MaterialSlider } from './MaterialSlider'
